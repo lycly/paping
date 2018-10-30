@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/24/trunk/src
+END
+stats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/19/trunk/src/stats.cpp
+END
+print.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/19/trunk/src/print.h
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/19/trunk/src/stats.h
+END
+standard.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/24/trunk/src/standard.h
+END
+arguments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/19/trunk/src/arguments.cpp
+END
+arguments.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/19/trunk/src/arguments.h
+END
+host.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/19/trunk/src/host.cpp
+END
+i18n.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/19/trunk/src/i18n.cpp
+END
+timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/19/trunk/src/timer.cpp
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/19/trunk/src/gettimeofday.c
+END
+host.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/19/trunk/src/host.h
+END
+i18n.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/19/trunk/src/i18n.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/20/trunk/src/main.cpp
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/19/trunk/src/timer.h
+END
+gettimeofday.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/19/trunk/src/gettimeofday.h
+END
+socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/21/trunk/src/socket.cpp
+END
+print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/19/trunk/src/print.cpp
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/19/trunk/src/socket.h
+END
