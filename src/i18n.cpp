@@ -10,7 +10,7 @@ pcc_t i18n_c::GetString(int id)
 	{
 		case STRING_USAGE:						return 	"Syntax: paping [options] destination\n\n"
 														"Options:\n"
-														" -?, --help\tdisplay usage\n"
+														" -h, --help\tdisplay usage\n"
 														" -p, --port N\tset TCP port N (required)\n"
 														//" -p, --port N\tset TCP/UDP port N (required)\n"
 														//"     --tcp\tuse TCP protocol (default)\n"
