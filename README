@@ -1,3 +1,37 @@
 Raspbian Requirements to build:
 g++
 build-essential
+
+This is a paping on rpi3. It can test tcp delay time.
+### How to use
+```bash
+./paping -h
+paping v1.5.5 - Copyright (c) 2019 Mike Lovell
+
+Syntax: paping [options] destination
+
+Options:
+ -h, --help	display usage
+ -p, --port N	set TCP port N (required)
+     --nocolor	Disable color output
+ -t, --timeout	timeout in milliseconds (default 1000)
+ -c, --count N	set number of checks to N
+```
+
+###Example usage
+```
+./paping www.baidu.com -p 80 -c 4
+paping v1.5.5 - Copyright (c) 2019 Mike Lovell
+
+Connecting to www.a.shifen.com [119.75.217.26] on TCP 80:
+
+Connected to 119.75.217.26: time=28.70ms protocol=TCP port=80
+Connected to 119.75.217.26: time=29.30ms protocol=TCP port=80
+Connected to 119.75.217.26: time=29.41ms protocol=TCP port=80
+Connected to 119.75.217.26: time=29.23ms protocol=TCP port=80
+
+Connection statistics:
+	Attempted = 4, Connected = 4, Failed = 0 (0.00%)
+Approximate connection times:
+	Minimum = 28.70ms, Maximum = 29.41ms, Average = 29.16ms
+```
